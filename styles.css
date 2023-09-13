@@ -1,0 +1,35 @@
+header {
+    margin: 5px auto 0 auto;
+    background-color: rgb(143, 53, 53);
+    max-width: 40vw;
+    max-height: 25vh;
+    text-align: center;
+    font-family: monospace;
+    padding: 10px;
+    border-radius: 7px;
+    font-size:smaller;
+}
+
+#navigation {
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    text-align: center;
+    display:inline-block;
+    margin: 10px auto 20px auto;
+}
+
+.links{
+    font-family: monospace;
+    margin: 10px auto 0 auto;
+    text-decoration: none;
+    display:inline-block;
+    padding: 10px 20px;
+    color: black;
+}
+
+#header {
+    text-align: center;
+    font-family: monospace;
+    max-width: 40vw;
+    
+}
